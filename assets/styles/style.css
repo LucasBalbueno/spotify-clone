@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url(./reset.css);
+@import url(./home.css);
+@import url(./apresentation.css);
+@import url(./footer.css);
+
+:root {
+    --font-primary: "Montserrat", sans-serif;
+    --font-secondary: Arial, Helvetica, sans-serif;
+    --color-text: #fff;
+    --color-contrast: rgb(113, 0, 255);
+    --color-contrastBlue: rgb(111, 241, 218);
+}
+
+body {
+    width: 100vw;
+}
+
+a {
+    text-decoration: none;
+}
